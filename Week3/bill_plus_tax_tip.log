@@ -1,0 +1,9 @@
+INFO:root:Ran - args: (20,)	kwargs: {'tip': 0.25}
+INFO:root:Ran - args: (56.97,)	kwargs: {'tax': 0.1}
+INFO:root:Ran - args: (118.75,)	kwargs: {'tax': 0.18}
+INFO:root:Ran - args: (20,)	kwargs: {'tip': 0.25}
+INFO:root:Ran - args: (56.97,)	kwargs: {'tax': 0.1}
+INFO:root:Ran - args: (118.75,)	kwargs: {'tax': 0.18}
+INFO:root:Ran - args: (20,)	kwargs: {'tip': 0.25}
+INFO:root:Ran - args: (56.97,)	kwargs: {'tax': 0.1}
+INFO:root:Ran - args: (118.75,)	kwargs: {'tax': 0.18}
